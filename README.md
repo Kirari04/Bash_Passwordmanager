@@ -1,1 +1,2 @@
-# Bash_Passwordmanager
+# Bash Passwordmanager
+The password manager is a command-line application that is programmed using the Bash scripting language. It is designed to help users securely store their passwords and other sensitive information. The application uses the Pretty Good Privacy (PGP) encryption standard to encrypt the passwords, ensuring that they are protected from unauthorized access. With this password manager, users can easily store passwords for their various accounts and access them with a single master password. This makes it a convenient and secure way to manage all of your important information in one place.
